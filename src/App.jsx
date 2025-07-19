@@ -1,9 +1,10 @@
 import React from 'react'
-import Header from './components/Header';
-import About from './components/About';
 
 import './index.css';
 
+import Header from './components/Header';
+import About from './components/About';
+import Projects from './components/Projects';
 
 const App = () => {
   return (
@@ -11,6 +12,7 @@ const App = () => {
       
     <Header />
     <About/>
+    <Projects />
     </div>
   )
 }
