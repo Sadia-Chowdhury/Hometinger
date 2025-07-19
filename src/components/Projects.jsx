@@ -61,7 +61,7 @@ const updateCardsToShow = () => {
                                     <h2 className='text-xl font-semibold text-gray-800'>
                                         {project.title}</h2>
                                     <p className='text-gray-500 text-sm'>
-                                        {project.price} <span></span>
+                                        {project.price} <span className='px-1'></span>
                                         {project.location}
                                         </p>
 
