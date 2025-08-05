@@ -75,26 +75,26 @@ export const projectsData = [
 
   export const testimonialsData = [
     {
-        name: "Donald Jackman",
-        title: "Marketing Manager",
+        name: "Abdullah Alif",
+        title: "Teacher",
         image: profile_img_1,
-        alt: "Portrait of Donald Jackman",
+        alt: "Portrait of Sohana Tasneem",
         rating: 5,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "My husband and I were overwhelmed trying to find the right home, but working with HomeTinger changed everything. We felt heard, supported, and truly cared for throughout the entire journey. Couldn't have asked for a better experience!"
     },
     {
-        name: "Richard Nelson",
+        name: "Richard Smith",
         title: "UI/UX Designer",
         image: profile_img_2,
-        alt: "Portrait of Richard Nelson",
+        alt: "Portrait of Sadia Naj Jinia",
         rating: 4,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "I wasn't just looking for a house — I was searching for a place that felt like home. From our first meeting, the HomeTinger team truly listened to what I needed. Their eye for detail and constant communication made the entire process smooth and stress-free."
     },
     {
-        name: "James Washington",
-        title: "Co-Founder",
+        name: "John Doe",
+        title: "Project Manager",
         image: profile_img_3,
-        alt: "Portrait of James Washington",
+        alt: "Portrait of Maisha Alam",
         rating: 5,
         text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
     }

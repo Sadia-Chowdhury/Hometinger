@@ -36,7 +36,9 @@ const About = () => {
                         </div>
 
                     </div>
-                    <p className='my-10 max-w-lg'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore non labore harum numquam maxime earum nulla rem tempora, reprehenderit, doloribus pariatur et ad temporibus dolores culpa a? Explicabo, pariatur quo.</p>
+                    <p className='my-10 max-w-lg'>For over a decade, Hometinger has delivered thoughtfully crafted living spaces that reflect lifestyle, comfort, and community. From sleek apartments to luxurious residences, our team is committed to turning visions into vibrant realities.
+                        <br /> At Hometinger, we don’t just build properties — we shape experiences, nurture communities, and turn your dream of home into a reality.</p>
+                    <p className='mt-10 mb-3 max-w-lg text-md font-medium'>Discover how we turn properties into personal stories</p>
                     <button className='bg-blue-600 text-white px-8 py-2 rounded'>Learn More</button>
 
                 </div>
